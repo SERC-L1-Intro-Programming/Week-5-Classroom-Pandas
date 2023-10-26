@@ -15,7 +15,8 @@
 				"ms-python.vscode-pylance",
 				"github.vscode-pull-request-github",
 				"github.classroom",
-				"ms-vsliveshare.vsliveshare"
+				"ms-vsliveshare.vsliveshare",
+				"ms-toolsai.jupyter"
 			]
 		}
 	}
